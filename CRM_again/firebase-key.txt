@@ -1,0 +1,8 @@
+firebase.initializeApp({
+      apiKey: "AIzaSyAE-kmHTQqpV99QF6Oa-umPZZEq6cn42G8",
+      authDomain: "crm-again.firebaseapp.com",
+      databaseURL: "https://crm-again.firebaseio.com",
+      projectId: "crm-again",
+      storageBucket: "crm-again.appspot.com",
+      messagingSenderId: "58790879250"
+    })
